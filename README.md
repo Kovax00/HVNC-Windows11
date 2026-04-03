@@ -3,6 +3,9 @@ PoC-HVNC windows 11 y windows 10 2026.
 
 # HVNC Python - Hidden Virtual Desktop Control
 
+<img width="1285" height="806" alt="image" src="https://github.com/user-attachments/assets/746fd0fd-5607-490a-a865-c1ffce98c4dc" />
+
+
 ## Descripción
 
 Este proyecto implementa un sistema HVNC (Hidden Virtual Network Computing) en Python que permite crear, ejecutar y controlar un escritorio virtual oculto en sistemas Windows. A diferencia de soluciones tradicionales de acceso remoto, las aplicaciones se ejecutan en un contexto aislado que no es visible para el usuario local.
