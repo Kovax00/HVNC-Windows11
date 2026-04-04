@@ -13,6 +13,8 @@ Este proyecto implementa un sistema HVNC (Hidden Virtual Network Computing) en P
 El sistema está compuesto por un cliente que opera sobre el host objetivo y un servidor que actúa como panel de control remoto.
 
 ---
+# ATENCION🚩🚩
+Este codigo solo es un POC, No usar de manera mal intencionada.
 
 ## Arquitectura
 
